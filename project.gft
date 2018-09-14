@@ -1,0 +1,28 @@
+FileHeader "SBG Object Text v1.07","Gft Document"
+begin
+	FileInfo "Application","Geo Professional version 2017.1.971.11"
+	FileInfo "SerialNo","7370"
+	FileInfo "Author","Jesper Westesson"
+	FileInfo "Company","BCA Entreprenad AB"
+	FileInfo "Description",
+end
+GftLayer 
+begin
+	GftPointList 
+	GftLineList 
+end
+GftLayer 
+begin
+	GftPointList 
+	GftLineList 
+end
+GftLayer 
+begin
+	GftPointList 
+	GftLineList 
+end
+GftLayer 
+begin
+	GftPointList 
+	GftLineList 
+end

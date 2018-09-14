@@ -1,0 +1,195 @@
+FileHeader "SBG Object Text v1.08","Polar measurements"
+begin
+	FileInfo "Application","GeoPadCE version 2017.01.1419"
+	FileInfo "SerialNo","5846"
+	FileInfo "Author","Unknown"
+	FileInfo "Company","Unknown"
+	FileInfo "Description",
+end
+InmStnList 
+begin
+	InmStation "180611_1436",0,1,1,,,,,2,,,,,0,0,0,293.962,101325,"3203363",20180613.085026,"jw",,,1,,1,6389000,1.400000000000000e-001,1,0,286.697855502815,80.6828457899115
+	begin
+		InmRecordList 
+		begin
+			InmRecord 4,"RA121",,,,38.391729945104,8.98636910704272,1.54619143867154,0,3.440000000000000e-002
+			begin
+				AttributeList 
+				begin
+					Attribute "UB","20180611.144034"
+					Attribute "GP_LM","3"
+					Attribute "GP_PR","6"
+					Attribute "FSBU","7"
+				end
+			end
+			InmRecord 4,"RA122",,,,22.5454937598356,10.0755648341766,1.53504535014126,0,3.440000000000000e-002
+			begin
+				AttributeList 
+				begin
+					Attribute "UB","20180611.144135"
+					Attribute "GP_LM","3"
+					Attribute "GP_PR","6"
+					Attribute "FSBU","7"
+				end
+			end
+			InmRecord 4,"RA123",,,,33.1342847617195,10.3501221210226,1.5470076192542,0,3.440000000000000e-002
+			begin
+				AttributeList 
+				begin
+					Attribute "UB","20180611.144208"
+					Attribute "GP_LM","3"
+					Attribute "GP_PR","6"
+					Attribute "FSBU","7"
+				end
+			end
+			InmLine "1",,
+			begin
+				InmRecordList 
+				begin
+					InmRecord 5,"01",,,,1.76711518689064,9.346689052651320e-001,1.65571277091899,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085059"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"02",,,,1.80681552808217,9.723695277143239e-001,1.65741380023596,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085105"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"03",,,,2.00001718849034,1.15875421713451,1.67399075031169,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085117"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"04",,,,2.07851786313859,1.21136799903154,1.67780144049199,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085127"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"05",,,,2.07031779266578,1.24462368322424,1.68154821362818,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085133"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"06",,,,2.08311790267211,1.26498981741892,1.68085036569447,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085142"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"07",,,,2.05461765773613,1.3964945662167,1.68084299727392,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085148"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"08",,,,2.08431791298521,1.58357033713028,1.67457766405008,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085155"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"09",,,,2.09931804189889,1.64296098911519,1.67288055920474,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085202"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"10",,,,2.07831786141974,1.67200756811316,1.6728761514398,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085209"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"11",,,,2.07071779610347,1.68762758270564,1.67286790523253,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085213"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"12",,,,1.93821665736599,1.80311818782849,1.66175274739883,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085221"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"13",,,,1.81581560543038,1.93851581646723,1.64460305506154,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085234"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+					InmRecord 5,"14",,,,1.80511551347196,1.94799863821697,1.64459881364579,0,3.440000000000000e-002
+					begin
+						AttributeList 
+						begin
+							Attribute "UB","20180613.085237"
+							Attribute "GP_LM","1"
+							Attribute "GP_PR","6"
+						end
+					end
+				end
+			end
+		end
+		AttributeList 
+		begin
+			Attribute "FSASD","1.256637061435917e-005,1.256637061435917e-005,5.000000000000000e-003,3,3.000000000000000e-003"
+			Attribute "sN","2.232050124561371e-003"
+			Attribute "sE","4.668751057049657e-003"
+			Attribute "s0","1.141009647863542e+000"
+			Attribute "sZ","1.773214820014538e-004"
+			Attribute "PosX","1.324955612726530e+005"
+			Attribute "PosY","6.177224073137349e+006"
+			Attribute "PosZ","8.312733575190690e+001"
+			Attribute "ZroA","0.000000000000000e+000"
+			Attribute "CooV","1.000000000000000e+000"
+			Attribute "BearInfo",""
+		end
+	end
+end
+InmPrecision ,,,,
+AttributeList 

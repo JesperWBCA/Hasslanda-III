@@ -1,0 +1,65 @@
+/////////////////////////////////
+//// SBG Localization report ////
+/////////////////////////////////
+// Localization file
+C:\Users\Public\Documents\SBG\Projects\HASSLANDA III\Sweref 99 13 30 RH2000_SWEN08.lok
+/////////////////////////////////
+// Description
+Sweref 99 13 30 / RH2000 (SWEN08)
+/////////////////////////////////
+// Geodetic datum
+Datum description: None
+Parameters from WGS84
+DeltaX: 0.0000
+DeltaY: 0.0000
+DeltaZ: 0.0000
+RotationX (arcsec): 0.00000000
+RotationY (arcsec): 0.00000000
+RotationZ (arcsec): 0.00000000
+Scale (ppm): 0.00000000
+/////////////////////////////////
+// Map projection
+Map description: Sweref99 13 30
+Projection type: Gauss Krüger
+Ellipsoid: GRS 80
+Ellipsoid a: 6378137.0000
+Ellipsoid 1/f: 298.257222101
+False Northing: -0.0000
+False Easting: 150000.0000
+Projection Scale: 1.0000000000
+Central Longitude (deg): 13.500000000
+Central Latitude (deg): 0.000000000
+Standard Parallell 1 (deg): 0.000000000
+Standard Parallell 2 (deg): 0.000000000
+Azim. in center line (deg): 0.000000000
+/////////////////////////////////
+// Geoid model
+SWEN08_RH2000.grd
+/////////////////////////////////
+// Local transformation
+Description: 
+(2D) Single point, no height adj.
+X0: 0.0000
+Y0: 0.0000
+Z0: 0.0000
+R11: 1.0000
+R12: 0.0000
+R13: 0.0000
+R21: 0.0000
+R22: 1.0000
+R23: 0.0000
+R31: 0.0000
+R32: 0.0000
+R33: 1.0000
+RotX (deg): 0.000000000
+RotY (deg): 0.000000000
+RotZ (deg): 0.000000000
+Scale: 1.000000000
+Slp plane A: 0.000000000
+Slp plane B: 0.000000000
+Slp plane C: 0.000000000
+/////////////////////////////////
+// Correction model
+Not Used
+/////////////////////////////////
+// Used points
